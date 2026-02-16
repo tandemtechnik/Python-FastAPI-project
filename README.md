@@ -1,0 +1,2 @@
+# Python FastAPI project
+A full-featured web application from the ground up using the FastAPI framework in Python. Built both a JSON API for programmatic access and HTML pages for users to browse in the browser. Set up a database with SQLAlchemy, create Pydantic models for data validation, and implement complete CRUD operations. Added user registration and login with secure password hashing and JWT tokens, handle file uploads for profile pictures, use background tasks for sending emails, and organize our code properly with routers.
